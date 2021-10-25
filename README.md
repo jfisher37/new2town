@@ -11,10 +11,30 @@
 - [License](#license)
 - [Questions](#questions)
 ## Installation
+- The project can be installed here: https://github.com/jfisher37/new2town
+
 
 ## Usage
-- If you clone this repo you will need to run 'npm i' to install the relevant npm packages.
-- There is a live build at https://polar-garden-81010.herokuapp.com/login
+- Sign up, search, add friends!
+- There is a live build at https://new2town-jfisher37.herokuapp.com/
+
+Please see images of the site below:
+
+Homepage/search page:
+
+![Homepage](public/assets/images/search.png)
+
+User profile:
+
+![User profile](public/assets/images/my_profile.png)
+
+Friends List:
+
+![Friends List](public/assets/images/friend_list.png)
+
+Friend's profile:
+
+![Friend's profile](public/assets/images/friend_profile.png)
 
 ## Credits
 - principle dev team includes Joey Fisher, Molly Singmaster, Nazik Askarbekkyzy and Aidan Rich.
