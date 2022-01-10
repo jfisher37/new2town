@@ -1,9 +1,8 @@
 # new2town
 ## Description
-- To showcase our skills with creating a fullstack application we developed New2Town.
 - New2Town is a functional yet simple social media app focused one finding new people to be friends with in your area (Note: this is not a dating app).
 - If you have recently moved to a new area sometimes it can be hard to make local friends. New2Town is an app dedicated to finding people who can help you explore your new home.
-- We learned a lot about the MVC framework and how to use routes to manage a mysql database.
+- 
 ## Table of Contents (Optional)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -37,7 +36,7 @@ Friend's profile:
 ![Friend's profile](public/assets/images/friend_profile.png)
 
 ## Credits
-- principle dev team includes Joey Fisher, Molly Singmaster, Nazik Askarbekkyzy and Aidan Rich.
+- Principle dev team includes Joey Fisher, Molly Singmaster, Nazik Askarbekkyzy and Aidan Rich.
 - Images are hosted by Cloudinary.
 
 ## License
